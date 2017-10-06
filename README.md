@@ -1,2 +1,2 @@
 # Coursera-full-stack-Web-Development
-Coursera-Full Stack Web Development Specialization [HKUST].
+Week-1 -Assignments-Coursera-Full Stack Web Development Specialization [HKUST].
